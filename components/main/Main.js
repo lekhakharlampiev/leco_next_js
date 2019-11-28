@@ -21,13 +21,12 @@ export default () => (
       <Offer />
       <Avantages />
       <Usage />
-      {/*
       <About />
       <Quote />
       <Comments />
       <Request />
       <Order />
       <Service />
-      <Feedback /> */}
+      <Feedback />
     </div>
 )
