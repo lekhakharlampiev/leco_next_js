@@ -7,7 +7,7 @@ export default () => (
         <div class="container">
             <div class="main-header__inner">
                 <div class="main-header__logo">
-                    <img src="img/leco-logo.png" alt="" />
+                    <img src="/static/img/leco-logo.png" alt="" />
                 </div>
                 <div class="main-header__language-select">
                     <button type="button" class="button language-select__button">En</button>
